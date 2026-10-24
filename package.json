@@ -160,7 +160,7 @@
     "prettier": "3.7.4",
     "prettier-plugin-tailwindcss": "^0.7.2",
     "semantic-release": "^25.0.2",
-    "storybook": "^8.6.14",
+    "storybook": "^8.6.19",
     "tailwindcss": "^4.1.18",
     "tsc": "^2.0.4",
     "tsx": "^4.19.2",
